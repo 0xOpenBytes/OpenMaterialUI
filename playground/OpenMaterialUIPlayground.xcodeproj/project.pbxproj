@@ -11,6 +11,7 @@
 		64097B712A1971E500231FC9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64097B702A1971E500231FC9 /* ContentView.swift */; };
 		64097B732A1971E600231FC9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 64097B722A1971E600231FC9 /* Assets.xcassets */; };
 		64097B762A1971E600231FC9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 64097B752A1971E600231FC9 /* Preview Assets.xcassets */; };
+		64B6621C2A57B7B9004F1922 /* MaterialTextDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B6621B2A57B7B8004F1922 /* MaterialTextDemo.swift */; };
 		64DA873B2A1972830010C181 /* OpenMaterialUI in Frameworks */ = {isa = PBXBuildFile; productRef = 64DA873A2A1972830010C181 /* OpenMaterialUI */; };
 /* End PBXBuildFile section */
 
@@ -20,6 +21,7 @@
 		64097B702A1971E500231FC9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		64097B722A1971E600231FC9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		64097B752A1971E600231FC9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		64B6621B2A57B7B8004F1922 /* MaterialTextDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaterialTextDemo.swift; sourceTree = "<group>"; };
 		64DA87382A1972470010C181 /* OpenMaterialUI */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = OpenMaterialUI; path = ..; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -58,6 +60,7 @@
 			children = (
 				64097B6E2A1971E500231FC9 /* OpenMaterialUIPlaygroundApp.swift */,
 				64097B702A1971E500231FC9 /* ContentView.swift */,
+				64B6621B2A57B7B8004F1922 /* MaterialTextDemo.swift */,
 				64097B722A1971E600231FC9 /* Assets.xcassets */,
 				64097B742A1971E600231FC9 /* Preview Content */,
 			);
@@ -162,6 +165,7 @@
 			files = (
 				64097B712A1971E500231FC9 /* ContentView.swift in Sources */,
 				64097B6F2A1971E500231FC9 /* OpenMaterialUIPlaygroundApp.swift in Sources */,
+				64B6621C2A57B7B9004F1922 /* MaterialTextDemo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
