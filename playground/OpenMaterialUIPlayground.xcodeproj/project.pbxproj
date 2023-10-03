@@ -45,7 +45,9 @@
 				64097B6C2A1971E500231FC9 /* Products */,
 				64DA87392A1972830010C181 /* Frameworks */,
 			);
+			indentWidth = 4;
 			sourceTree = "<group>";
+			tabWidth = 4;
 		};
 		64097B6C2A1971E500231FC9 /* Products */ = {
 			isa = PBXGroup;
